@@ -1,6 +1,9 @@
 # Speech Analytics Platform
 This web app provides real-time speech analytics for agent performance, built using React (Next.js), and integrated with AWS services. 
 
+<img width="272" alt="image" src="https://github.com/user-attachments/assets/b27cb7d6-390c-458a-8c9d-003113be4c68">
+
+
 ## High-Level Overview
 This web app provides real-time speech analytics for agent performance, built using ASP.NET Core, React (Next.js), and integrated with AWS services. Key features include:
 
