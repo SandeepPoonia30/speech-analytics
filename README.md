@@ -12,3 +12,6 @@ This web app provides real-time speech analytics for agent performance, built us
 - Seamless integration: Secure authentication and integration with multiple third-party APIs for a smooth user experience.
 
 This app exemplifies my ability to create scalable, cloud-based solutions that enhance operational efficiency and improve user satisfaction in real-time environments.
+
+![Copy of QA Architecture Diagram (2)](https://github.com/user-attachments/assets/c8f460d8-c47c-4796-be17-1dc3e65bae00)
+
